@@ -1,4 +1,4 @@
 firs line
 second line
 third line (on dev branch)
-fourth line (added by nano)---
+fourth line (added by nano)____
